@@ -1,3 +1,7 @@
+Disclaimer:
+This dataset was obtained from Kaggle for educational and research purposes. The original data belongs to its respective owners and may be subject to Kaggle’s terms of use.
+
+
 gender	age	grade_level	math_score	reading_score	writing_score	attendance_rate	parent_education	study_hours	internet_access	lunch_type	extra_activities	final_result
 Other	17	10	74	61	90	94.66000214	Master's	4.120192348	Yes	Free or reduced	Yes	Fail
 Male	17	12	99	70	91	93.1732271	Bachelor's	2.886505461	No	Free or reduced	No	Pass
